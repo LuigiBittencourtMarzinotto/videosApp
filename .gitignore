@@ -30,3 +30,7 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+src/app/explore-container/explore-container.component.scss
+src/app/explore-container/explore-container.component.spec.ts
+src/app/explore-container/explore-container.module.ts
+src/app/explore-container/explore-container.component.ts
